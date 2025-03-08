@@ -1,6 +1,4 @@
-
-
-#💻 Installation
+##💻 Installation
 1. Clonez ce dépôt
 bashCopygit clone https://github.com/yourusername/LinkMinimizer.git
 cd LinkMinimizer
