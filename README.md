@@ -1,17 +1,3 @@
-Un service API simple pour raccourcir des URLs et générer des QR codes, développé avec Flask et SQLAlchemy.
-Caractéristiques
-
-Raccourcissement d'URLs
-Vérification de l'accessibilité des URLs
-Génération de codes QR
-Suivi des statistiques d'accès
-Base de données SQLite pour un fonctionnement en local
-
-Prérequis
-
-Python 3.8+
-pip
-
 Installation
 
 Clonez ce dépôt
@@ -77,4 +63,4 @@ Personnalisation
 Longueur de l'identifiant court
 Vous pouvez modifier la longueur de l'identifiant court en changeant le paramètre num_chars dans la fonction generate_short_id().
 Base de données
-Par défaut, l'application utilise SQLite. Pour utiliser une autre base de données, modifiez la variable DATABASE_URL.
+Par défaut, l'application utilise SQLite. Pour utiliser une autre base de données, modifiez la variable DATABASE_URL
