@@ -1,21 +1,6 @@
-LinkMinimizer API
-Un service API léger et performant pour raccourcir vos URLs et générer des QR codes instantanément. Développé avec Flask et SQLAlchemy, il offre une solution autonome, sans dépendances externes complexes.
-🚀 Pourquoi LinkMinimizer?
 
-Simple mais puissant - Une API REST minimaliste pour intégrer la fonctionnalité de raccourcissement d'URL dans n'importe quelle application
-QR Codes intégrés - Générez automatiquement des codes QR pour chaque lien raccourci
-Statistiques de suivi - Suivez le nombre d'accès à chaque lien et leur dernière utilisation
-Installation locale facile - Base de données SQLite intégrée, aucune configuration complexe requise
-Vérification d'URL - Validation automatique des URLs pour garantir qu'elles sont accessibles
 
-🛠️ Technologies
-
-Flask - Framework web léger
-SQLAlchemy - ORM pour la gestion de base de données
-QRCode - Génération de codes QR
-Requests - Vérification d'accessibilité des URLs
-
-💻 Installation
+#💻 Installation
 1. Clonez ce dépôt
 bashCopygit clone https://github.com/yourusername/LinkMinimizer.git
 cd LinkMinimizer
