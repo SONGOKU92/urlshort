@@ -19,3 +19,9 @@ Ce projet est une application API développée avec Flask qui permet de raccourc
   - qrcode
   - Pillow
   - urllib3
+
+pip install -r requirements.txt
+
+python app.py
+
+L'application sera accessible à l'adresse : http://127.0.0.1:5000
