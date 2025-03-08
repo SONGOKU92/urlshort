@@ -1,0 +1,6 @@
+Flask==2.3.3
+SQLAlchemy==2.0.25
+requests==2.31.0
+qrcode==7.4.2
+Pillow==10.0.0
+urllib3==2.0.4
