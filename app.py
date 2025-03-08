@@ -129,7 +129,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL SHORT</title>
+    <title>URL Shortener</title>
     <style>
         * {
             margin: 0;
@@ -287,7 +287,7 @@ HTML_TEMPLATE = '''
 <body>
     <div class="container">
         <header>
-            <h1>URL SHORT</h1>
+            <h1>URL Shortener</h1>
             <p>Raccourcissez vos URLs en quelques clics</p>
         </header>
 
